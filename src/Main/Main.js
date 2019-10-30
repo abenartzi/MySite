@@ -9,7 +9,7 @@ class Main extends Component {
         };
         return (
             <div className="Main">
-                <div>
+                <div className='hat_balloon'>
                     <img className="balloon" src={images["1"]} alt="Balloon"/>
                     <img className="hat" src={images["2"]} alt="TopHat"/>
 

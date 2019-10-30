@@ -1,9 +1,6 @@
 body{
-  width: 100%;
+  position: relative;
+  min-height: 100vh;
   background: #FBCF62;
 }
 
-html{
-  position: relative;
-  min-height: 100%;
-}
